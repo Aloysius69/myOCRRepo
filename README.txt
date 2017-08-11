@@ -1,14 +1,14 @@
-My OCR Repository: liensweb
+ï»¿My OCR Repository: liensweb
 ---------------------------
 
-Présentation
+PrÃ©sentation
 ------------
-liensweb est une application permettant la visualisation instantanée de liens saisis directement à l'écran.
+liensweb est une application permettant la visualisation instantanÃ©e de liens saisis directement Ã  l'Ã©cran.
 
 Installation
 ------------
-1. Télécharger les fichiers
-2. Mémoriser l'emplacement auquel vous avez téléchargé ces fichiers
+1. TÃ©lÃ©charger les fichiers
+2. MÃ©moriser l'emplacement auquel vous avez tÃ©lÃ©chargÃ© ces fichiers
 
 Mode d'emploi
 -------------
@@ -20,4 +20,4 @@ Mode d'emploi
 
 Credit
 ------
-Cette application a été développée en collaboration avec OpenClassromm et le Massagechaussette institut of techonlogie.
+Cette application a Ã©tÃ© dÃ©veloppÃ©e en collaboration avec OpenClassromm et le Massagechaussette institut of techonlogie.
